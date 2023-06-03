@@ -1,0 +1,1 @@
+should not able to add to stage or commit

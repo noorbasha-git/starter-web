@@ -4,6 +4,9 @@ This comparision is essentils to understand
 ##this is the second line
 the diff between local and remote
 
+
+modified from the branch noor
+
 ## this is the third line
 first course to be completed
  basha branch
@@ -17,8 +20,9 @@ added from master
 
 ----local chane----
 
-<<<<<<< HEAD
+
 lines added to check branch
-=======
+lines added to check branch
+
 fastforward disabled 2nd time
->>>>>>> noor
+

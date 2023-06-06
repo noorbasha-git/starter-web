@@ -4,6 +4,9 @@ This comparision is essentils to understand
 ##this is the second line
 the diff between local and remote
 
+
+modified from the branch noor
+
 ## this is the third line
 first course to be completed
 
@@ -16,3 +19,5 @@ added line in stage alea
 ----local chane----
 
 fastforward disabled 2nd time
+
+add from the branch noor

@@ -15,4 +15,8 @@ added line in stage alea
 
 ----local chane----
 
+<<<<<<< HEAD
 lines added to check branch
+=======
+fastforward disabled 2nd time
+>>>>>>> noor
